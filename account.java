@@ -1,3 +1,13 @@
+/*                               
+                                    LAB-8
+Write a JAVA program which has Class called Account that creates account with Rs500 minimum
+balance, a deposit() method to deposit amount, a withdraw() method to withdraw amount and also throws
+LessBalanceException if an account holder tries to withdraw money which makes the balance become
+less than Rs500.*/
+
+
+
+
 class LessBalanceException extends Exception {
     public LessBalanceException(double amount) {
         super("Withdraw amount (" + amount + " Rs) is not possible.");
