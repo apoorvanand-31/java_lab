@@ -1,3 +1,12 @@
+/*
+                                  LAB-5
+5. Develop an online shopping platform to manage a dynamic list of products available for sale.
+i. Implement a program called OnlineShoppingManager that uses a Vector to store product
+objects. Each product should have attributes for name, price and category.
+ii. Design methods in the OnlineShoppingManager class to add products to the inventory,
+remove products from the inventory and display all products in the inventory.*/
+
+
 import java.util.Vector;
 
 class Product {
