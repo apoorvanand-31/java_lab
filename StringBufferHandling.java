@@ -1,3 +1,12 @@
+/*
+                              LAB-3(b)
+3b. Write a program in Java for String handling which performs the following:
+i. Checks the capacity of String Buffer objects.
+ii. Reverses the contents of string given on console and converts the resultant string in upper
+case.
+iii. Reads a string from console and appends it to the resultant string.*/
+
+
 import java.util.Scanner;
 
 public class StringBufferHandling {
