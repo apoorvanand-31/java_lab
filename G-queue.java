@@ -1,3 +1,11 @@
+/*
+                                         LAB-6
+Write a Java program to implement a dynamic, growable queue using generics. The queue should be
+able to store elements of any data type and dynamically resize itself as needed to accommodate more
+elements.*/
+
+
+
 import java.util.LinkedList;
 
 class GQueue<T> {
