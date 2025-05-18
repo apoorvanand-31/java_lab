@@ -1,3 +1,13 @@
+/*
+                                    LAB-1(a)
+1a. Design a membership management system for a fitness center, where the system
+should allow gym administrators to store information about gym members- name, age,
+membership status(true/false), and membership duration (in months). Calculate the
+membership fee based on the membership duration using a predefined fee. Display
+detailed information of the member.*/
+
+
+
 import java.util.Scanner;
 
 public class GymMembershipManager {
