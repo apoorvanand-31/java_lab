@@ -1,3 +1,11 @@
+/*
+                                    LAB-3(a)
+3a. Develop a text processing tool for a language learning platform. The tool needs to compare strings,
+concatenate strings, and create copies of strings for various languages. Implement appropriate Java
+functionalities.*/
+
+
+
 public class StringFunctions {
     public static boolean compareStrings(String str1, String str2) {
         return str1.equals(str2);
