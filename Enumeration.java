@@ -1,3 +1,11 @@
+/*
+                            LAB-4(a)
+4a) . Create an enumeration Day of Week with seven values SUNDAY through SATURDAY. Add a
+method Workday() to the DayofWeek class that returns true if the value on which it is called is
+MONDAY through FRIDAY.*/
+
+
+
 import java.util.Scanner;
 
 public class Enumeration {
