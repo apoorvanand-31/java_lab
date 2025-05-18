@@ -1,3 +1,8 @@
+/*
+                        LAB-1(b)
+1b. Design JAVA program to print a chessboard pattern.*/
+
+
 public class ChessboardPattern {
     public static void main(String[] args) {
         int size = 8; 
