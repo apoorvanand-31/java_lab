@@ -1,3 +1,10 @@
+/*
+                                        LAB-4(b)
+4b.) Design a JAVA program to help a teacher track the exam scores of five students in a class. The
+teacher wants to input the exam scores of each student and then view statistics such as the sum of all
+scores and the highest score attained.*/
+
+
 import java.util.Scanner;
 
 public class ExamScoreTracker {
