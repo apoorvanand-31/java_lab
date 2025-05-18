@@ -1,3 +1,10 @@
+
+/*                                        LAB-7
+7.)Consider a small hospital with a pharmacy that needs a simple inventory management system to keep
+track of its medications and medical supplies. Each item in the inventory has a unique ID, name, quantity
+in stock, and price. The hospital wants functionalities to add new items, update existing items, remove
+items, display the list of all items, and search for a specific item by its ID. */
+
 import java.util.ArrayList;
 
 class Pharmacy {
